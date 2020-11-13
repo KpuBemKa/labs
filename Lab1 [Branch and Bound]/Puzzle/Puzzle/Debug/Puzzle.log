@@ -1,0 +1,3 @@
+﻿  puzzle.cpp
+E:\Admin\UTP\Sources\Lab1\Puzzle\Puzzle\puzzle.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Puzzle.vcxproj -> E:\Admin\UTP\Sources\Lab1\Puzzle\Debug\Puzzle.exe

@@ -1,0 +1,8 @@
+﻿  Interpolare.cpp
+E:\Admin\UTP\Sources\Lab5\Interpolare\Interpolare\Interpolare.cpp(17,23): warning C4018: '<': signed/unsigned mismatch
+E:\Admin\UTP\Sources\Lab5\Interpolare\Interpolare\Interpolare.cpp(18,27): warning C4018: '<': signed/unsigned mismatch
+E:\Admin\UTP\Sources\Lab5\Interpolare\Interpolare\Interpolare.cpp(32,23): warning C4018: '<': signed/unsigned mismatch
+E:\Admin\UTP\Sources\Lab5\Interpolare\Interpolare\Interpolare.cpp(51,23): warning C4018: '<': signed/unsigned mismatch
+E:\Admin\UTP\Sources\Lab5\Interpolare\Interpolare\Interpolare.cpp(55,31): warning C4018: '<': signed/unsigned mismatch
+E:\Admin\UTP\Sources\Lab5\Interpolare\Interpolare\Interpolare.cpp(81,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Interpolare.vcxproj -> E:\Admin\UTP\Sources\Lab5\Interpolare\Debug\Interpolare.exe

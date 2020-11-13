@@ -1,0 +1,2 @@
+﻿  PandaProblem.cpp
+E:\Admin\UTP\Sources\Lab3\PandaProblem\PandaProblem\PandaProblem.cpp : fatal error C1041: cannot open program database 'E:\Admin\UTP\Sources\Lab3\PandaProblem\PandaProblem\Debug\vc142.idb'; if multiple CL.EXE write to the same .PDB file, please use /FS

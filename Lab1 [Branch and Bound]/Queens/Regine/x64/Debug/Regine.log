@@ -1,0 +1,6 @@
+﻿  Regine.cpp
+E:\Admin\UTP\Sources\Lab1\Regine\Regine\Regine.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Admin\UTP\Sources\Lab1\Regine\Regine\regine.h(60,16): warning C4101: 'j': unreferenced local variable
+E:\Admin\UTP\Sources\Lab1\Regine\Regine\regine.h(109,26): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1251)
+E:\Admin\UTP\Sources\Lab1\Regine\Regine\regine.h(109,26): warning C4566: character represented by universal-character-name '\u021B' cannot be represented in the current code page (1251)
+  Regine.vcxproj -> E:\Admin\UTP\Sources\Lab1\Regine\x64\Debug\Regine.exe

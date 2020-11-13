@@ -1,0 +1,4 @@
+﻿Lucrătorul A va avea jobul 1
+Lucrătorul B va avea jobul 0
+Lucrătorul C va avea jobul 2
+Lucrătorul D va avea jobul 3

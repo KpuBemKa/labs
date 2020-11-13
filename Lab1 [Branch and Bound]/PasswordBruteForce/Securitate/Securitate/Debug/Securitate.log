@@ -1,0 +1,4 @@
+﻿  securitate.cpp
+E:\Admin\UTP\Sources\Lab1\Securitate\Securitate\Securitate\securitate.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Admin\UTP\Sources\Lab1\Securitate\Securitate\Securitate\securitate.h(113,21): warning C4018: '<': signed/unsigned mismatch
+  Securitate.vcxproj -> E:\Admin\UTP\Sources\Lab1\Securitate\Securitate\Debug\Securitate.exe
