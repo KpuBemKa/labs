@@ -1,20 +1,42 @@
 ﻿#include "sort.h"
 
+void showIntVector(std::vector<int> arr) {
+	for (int i : arr)
+		std::cout << i << " ";
+	std::cout << "\n";
+}
+
+void showCharVector(std::vector<char> arr) {
+	for (char i : arr)
+		std::cout << i << " ";
+	std::cout << "\n";
+}
+
 int main() {
 
-	std::vector<int> arr1 = { 1, 2, 0, 6, 2, 0, 0, 2, 0, 6, 8, 8, 8, 2, 2, 1, 0 };
-	std::vector<int> arr2 = { 81, 56, 78, 70, 28, 95, 27, 23, 26, 91 };
-	std::vector<int> arr3 = { 49, 63, 64, 54, 98, 14, 67, 55, 60, 58 };
-	std::vector<int> arr4 = { 20, 33, 45, 82, 66, 15, 57, 47, 69, 24 };
+	std::vector<int> intArr = { 49, 63, 64, 54, 98, 14, 67, 55, 60, 58 };
+	std::vector<char> charArr = { 'B', 'F', 'E', 'H', 'A', 'C', 'I', 'D', 'G'};
 
-	/*sort::sortAscending(arr1, true);
-	std::cout << "\n";*/
-	std::cout << "quickSort:\n";
-	sort::quickSort(arr1, false);
+	std::cout << "Vectorul initial:\n\t";
+	showIntVector(intArr);
+	intArr = intSort::intQuickSort(intArr, true);
+	std::cout << "Vectorul sortat crescator:\n\t";
+	showIntVector(intArr);
 
-	/*sort::sortAscending(arr3, true);
-	std::cout << "\n";
-	sort::sortAscending(arr4, false);
-	std::cout << "\n";*/
+	intArr = intSort::intQuickSort(intArr, false);
+	std::cout << "Vectorul sortat descrescator:\n\t";
+	showIntVector(intArr);
+
+	std::cout << "\n-================================-\n\n";
+
+	std::cout << "Vectorul initial:\n\t";
+	showCharVector(charArr);
+	charArr = charSort::charQuickSort(charArr, true);
+	std::cout << "Vectorul sortat descrescator:\n\t";
+	showCharVector(charArr);
+
+	charArr = charSort::charQuickSort(charArr, false);
+	std::cout << "Vectorul sortat descrescator:\n\t";
+	showCharVector(charArr);
 
 }
