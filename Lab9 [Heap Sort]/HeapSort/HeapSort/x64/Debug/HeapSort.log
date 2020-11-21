@@ -1,6 +1,2 @@
 ﻿  HeapSort.cpp
-D:\Admin\UTP\Sources\Lab9\HeapSort\HeapSort\HeapSort.cpp(47,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-D:\Admin\UTP\Sources\Lab9\HeapSort\HeapSort\HeapSort.cpp(70,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-D:\Admin\UTP\Sources\Lab9\HeapSort\HeapSort\HeapSort.cpp(92,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-D:\Admin\UTP\Sources\Lab9\HeapSort\HeapSort\HeapSort.cpp(105,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  HeapSort.vcxproj -> D:\Admin\UTP\Sources\Lab9\HeapSort\x64\Debug\HeapSort.exe
+  HeapSort.vcxproj -> D:\Admin\UTP\Algorithms\labs\Lab9 [Heap Sort]\HeapSort\x64\Debug\HeapSort.exe

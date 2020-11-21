@@ -141,6 +141,10 @@
   <ItemGroup>
     <ClCompile Include="HeapSort.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="(1) heapSort.h" />
+    <ClInclude Include="%283%29 columnSort.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
