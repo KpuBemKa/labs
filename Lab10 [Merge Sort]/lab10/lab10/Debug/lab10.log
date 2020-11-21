@@ -1,2 +1,5 @@
 ﻿  lab10.cpp
-  lab10.vcxproj -> D:\Admin\UTP\Algorithms\Lab10 [Merge Sort]\lab10\Debug\lab10.exe
+D:\Admin\UTP\Algorithms\labs\Lab10 [Merge Sort]\lab10\lab10\ex4.h(123,21): warning C4018: '<': signed/unsigned mismatch
+D:\Admin\UTP\Algorithms\labs\Lab10 [Merge Sort]\lab10\lab10\ex4.h(135,21): warning C4018: '<': signed/unsigned mismatch
+D:\Admin\UTP\Algorithms\labs\Lab10 [Merge Sort]\lab10\lab10\ex4.h(140,21): warning C4018: '<': signed/unsigned mismatch
+  lab10.vcxproj -> D:\Admin\UTP\Algorithms\labs\Lab10 [Merge Sort]\lab10\Debug\lab10.exe

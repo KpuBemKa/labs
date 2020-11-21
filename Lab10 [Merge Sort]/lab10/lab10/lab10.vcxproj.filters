@@ -20,7 +20,39 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="in.txt">
+    <ClInclude Include="ex1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mergeSort.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ex2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ex3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ex4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="inEx1.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="outEx1.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="inEx3.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="outEx3.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="inEx4.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="outEx4.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>

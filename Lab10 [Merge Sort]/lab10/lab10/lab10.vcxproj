@@ -142,7 +142,19 @@
     <ClCompile Include="lab10.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="in.txt" />
+    <ClInclude Include="ex1.h" />
+    <ClInclude Include="ex2.h" />
+    <ClInclude Include="ex3.h" />
+    <ClInclude Include="ex4.h" />
+    <ClInclude Include="mergeSort.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="inEx1.txt" />
+    <Text Include="inEx3.txt" />
+    <Text Include="inEx4.txt" />
+    <Text Include="outEx1.txt" />
+    <Text Include="outEx3.txt" />
+    <Text Include="outEx4.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
